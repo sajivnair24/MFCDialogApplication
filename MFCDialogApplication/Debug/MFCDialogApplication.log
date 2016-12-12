@@ -1,0 +1,5 @@
+﻿  MFCDialogApplicationDlg.cpp
+c:\users\sahid\documents\visual studio 2015\projects\mfcdialogapplication\mfcdialogapplication\mfcdialogapplicationdlg.cpp(284): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\sahid\documents\visual studio 2015\projects\mfcdialogapplication\mfcdialogapplication\mfcdialogapplicationdlg.cpp(285): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MFCDialogApplication.vcxproj -> C:\Users\Sahid\Documents\Visual Studio 2015\Projects\MFCDialogApplication\Debug\MFCDialogApplication.exe
+  MFCDialogApplication.vcxproj -> C:\Users\Sahid\Documents\Visual Studio 2015\Projects\MFCDialogApplication\Debug\MFCDialogApplication.pdb (Partial PDB)
